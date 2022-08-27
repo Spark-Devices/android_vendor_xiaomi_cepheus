@@ -959,6 +959,7 @@ PRODUCT_PACKAGES += \
     SoterService \
     CACertService \
     CneApp \
+    IFAAService \
     IWlanService \
     TimeService \
     pasrservice \
